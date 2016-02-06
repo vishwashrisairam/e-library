@@ -100,10 +100,8 @@ h5{
 		    </div>
 
 		    <div >  
-		        
-		  		<a href="https://script.google.com/macros/s/AKfycbwsJT6PZCHI8Xp0XYep4gsKAD22aCdR2mBcZrfIo7KQ/dev" class="course navbar-right" style="float:right" id="upload"> <span class="glyphicon glyphicon-upload"></span></a>
-		  </div> 
-		  
+		        <a href="#" class="course navbar-right"id="abc"> Home</a>
+		  </div>
         </nav>
 
          <div class="row" style="margin-top:8%;">
